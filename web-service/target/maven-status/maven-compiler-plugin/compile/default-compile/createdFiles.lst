@@ -1,0 +1,5 @@
+com\bookcatalogue\web\WebServiceApplication.class
+com\bookcatalogue\web\client\ManagementServiceClient$1.class
+com\bookcatalogue\web\model\Book.class
+com\bookcatalogue\web\controller\BookController.class
+com\bookcatalogue\web\client\ManagementServiceClient.class

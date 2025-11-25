@@ -1,0 +1,4 @@
+com\bookcatalogue\management\repo\BookRepositoryTest.class
+com\bookcatalogue\management\service\BookServiceTest.class
+com\bookcatalogue\management\controller\BookControllerTest.class
+com\bookcatalogue\management\ManagementServiceApplicationTest.class

@@ -1,0 +1,5 @@
+com\bookcatalogue\management\controller\BookController.class
+com\bookcatalogue\management\repo\BookRepository.class
+com\bookcatalogue\management\service\BookService.class
+com\bookcatalogue\management\model\Book.class
+com\bookcatalogue\management\ManagementServiceApplication.class
